@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+<title>圖片操作</title>
+</head>
+<body>
+
+<img src="2201.jfif" alt="這是第1張圖" width="400" heigh="300">
+<img src="2202.jfif" alt="這是第2張圖" width="400" heigh="300">
+<img src="2203.jfif" alt="這是第3張圖" width="400" heigh="300"><p>
+<img src="2204.jfif" alt="這是第4張圖" width="400" heigh="300">
+<img src="2205.jfif" alt="這是第5張圖" width="400" heigh="300">
+
+
+</body>
+</html>
